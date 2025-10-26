@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/g8vP8kO.gif" width="120px" alt="Waving Hello GIF">
-  <h1>👋 Hi there! I'm Mohd Monish</h1>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk0N2NhYmY1ZDViMGI0Y2Y2YmY3OWFmZmM3ZDQxZDEwYjMyZDVhMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5hpueFgs/giphy.gif" width="120px" alt="Waving Hello GIF">  <h1>👋 Hi there! I'm Mohd Monish</h1>
 </div>
 
 ---
