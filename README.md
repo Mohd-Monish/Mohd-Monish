@@ -17,13 +17,13 @@
 
 ## 📈 GitHub Stats (Learning in Public)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abu-Hujefa&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohd-Monish&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Hujefa&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Monish&layout=compact&theme=tokyonight&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abu-Hujefa&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohd-Monish&theme=tokyonight)
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abu-Hujefa&theme=tokyonight)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohd-Monish&theme=tokyonight)
 
 
 ### 🛠️ Tech Stack & Learning
